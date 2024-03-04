@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9F165D112B73728100484FA8 /* FontExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F165D102B73728100484FA8 /* FontExtention.swift */; };
+		9F17D9322B9594FA00C3CEC6 /* SocketIo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F17D9312B9594FA00C3CEC6 /* SocketIo.swift */; };
 		9F7E35DF2B0F62730046E299 /* HttpUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7E35DE2B0F62730046E299 /* HttpUtility.swift */; };
 		9F7E35E12B0F62E80046E299 /* ConstantsProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7E35E02B0F62E80046E299 /* ConstantsProject.swift */; };
 		9F7E35E32B0F63650046E299 /* ImageLoadingFromUrl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7E35E22B0F63650046E299 /* ImageLoadingFromUrl.swift */; };
@@ -65,6 +66,7 @@
 
 /* Begin PBXFileReference section */
 		9F165D102B73728100484FA8 /* FontExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontExtention.swift; sourceTree = "<group>"; };
+		9F17D9312B9594FA00C3CEC6 /* SocketIo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocketIo.swift; sourceTree = "<group>"; };
 		9F7E35DE2B0F62730046E299 /* HttpUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpUtility.swift; sourceTree = "<group>"; };
 		9F7E35E02B0F62E80046E299 /* ConstantsProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsProject.swift; sourceTree = "<group>"; };
 		9F7E35E22B0F63650046E299 /* ImageLoadingFromUrl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoadingFromUrl.swift; sourceTree = "<group>"; };
@@ -229,6 +231,7 @@
 			isa = PBXGroup;
 			children = (
 				9FA693CB2AEFDDA000232DFB /* ViewingComments.swift */,
+				9F17D9312B9594FA00C3CEC6 /* SocketIo.swift */,
 				9F8A01112AE93DA0000FB2D3 /* ViewingCommentsVM.swift */,
 				9F8A010F2AE93D15000FB2D3 /* ViewingCommentsModel.swift */,
 			);
@@ -391,6 +394,7 @@
 				9F8A01102AE93D15000FB2D3 /* ViewingCommentsModel.swift in Sources */,
 				9F8D21B22AFCA8D00065CC5A /* DocumentLoaderVC.swift in Sources */,
 				9F871FB12B203F1C00F5616B /* LoginModel.swift in Sources */,
+				9F17D9322B9594FA00C3CEC6 /* SocketIo.swift in Sources */,
 				9F871FAF2B203E8100F5616B /* RequestToken.swift in Sources */,
 				9F8A01122AE93DA0000FB2D3 /* ViewingCommentsVM.swift in Sources */,
 				9F7E35E12B0F62E80046E299 /* ConstantsProject.swift in Sources */,
